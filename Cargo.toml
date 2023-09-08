@@ -1,2 +1,3 @@
 [workspace]
 members = ["qpdf-sys", "qpdf-rs"]
+resolver = "2"

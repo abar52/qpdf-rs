@@ -686,7 +686,7 @@ extern "C" {
     pub fn qpdf_set_preserve_encryption(qpdf: qpdf_data, value: QPDF_BOOL);
 }
 extern "C" {
-    pub fn qpdf_set_r2_encryption_parameters(
+    pub fn qpdf_set_r2_encryption_parameters_insecure(
         qpdf: qpdf_data,
         user_password: *const ::std::os::raw::c_char,
         owner_password: *const ::std::os::raw::c_char,
@@ -697,7 +697,7 @@ extern "C" {
     );
 }
 extern "C" {
-    pub fn qpdf_set_r3_encryption_parameters2(
+    pub fn qpdf_set_r3_encryption_parameters_insecure(
         qpdf: qpdf_data,
         user_password: *const ::std::os::raw::c_char,
         owner_password: *const ::std::os::raw::c_char,
@@ -711,7 +711,7 @@ extern "C" {
     );
 }
 extern "C" {
-    pub fn qpdf_set_r4_encryption_parameters2(
+    pub fn qpdf_set_r4_encryption_parameters_insecure(
         qpdf: qpdf_data,
         user_password: *const ::std::os::raw::c_char,
         owner_password: *const ::std::os::raw::c_char,
