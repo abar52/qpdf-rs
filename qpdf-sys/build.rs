@@ -225,7 +225,7 @@ fn build_qpdf() {
 
     build
         .cpp(true)
-        .include(root.join("zlib-1.2.11"))
+        .include(root.join("zlib-1.3"))
         .include(root.join("jpeg-9d"))
         .include(root.join("qpdf").join("include"))
         .include(root.join("qpdf").join("libqpdf"))
