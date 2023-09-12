@@ -1,0 +1,110 @@
+[
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/qpdf.dir/qpdf.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/qpdf.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/qpdf.cc",
+  "output": "CMakeFiles/qpdf.dir/qpdf.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/fix-qdf.dir/fix-qdf.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/fix-qdf.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/fix-qdf.cc",
+  "output": "CMakeFiles/fix-qdf.dir/fix-qdf.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/pdf_from_scratch.dir/pdf_from_scratch.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/pdf_from_scratch.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/pdf_from_scratch.cc",
+  "output": "CMakeFiles/pdf_from_scratch.dir/pdf_from_scratch.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/sizes.dir/sizes.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/sizes.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/sizes.cc",
+  "output": "CMakeFiles/sizes.dir/sizes.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_char_sign.dir/test_char_sign.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_char_sign.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_char_sign.cc",
+  "output": "CMakeFiles/test_char_sign.dir/test_char_sign.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf -g -o CMakeFiles/test_driver.dir/test_driver.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_driver.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_driver.cc",
+  "output": "CMakeFiles/test_driver.dir/test_driver.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf -g -o CMakeFiles/test_large_file.dir/test_large_file.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_large_file.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_large_file.cc",
+  "output": "CMakeFiles/test_large_file.dir/test_large_file.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_many_nulls.dir/test_many_nulls.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_many_nulls.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_many_nulls.cc",
+  "output": "CMakeFiles/test_many_nulls.dir/test_many_nulls.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_parsedoffset.dir/test_parsedoffset.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_parsedoffset.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_parsedoffset.cc",
+  "output": "CMakeFiles/test_parsedoffset.dir/test_parsedoffset.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_pdf_doc_encoding.dir/test_pdf_doc_encoding.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_pdf_doc_encoding.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_pdf_doc_encoding.cc",
+  "output": "CMakeFiles/test_pdf_doc_encoding.dir/test_pdf_doc_encoding.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_pdf_unicode.dir/test_pdf_unicode.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_pdf_unicode.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_pdf_unicode.cc",
+  "output": "CMakeFiles/test_pdf_unicode.dir/test_pdf_unicode.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_renumber.dir/test_renumber.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_renumber.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_renumber.cc",
+  "output": "CMakeFiles/test_renumber.dir/test_renumber.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_shell_glob.dir/test_shell_glob.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_shell_glob.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_shell_glob.cc",
+  "output": "CMakeFiles/test_shell_glob.dir/test_shell_glob.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_tokenizer.dir/test_tokenizer.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_tokenizer.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_tokenizer.cc",
+  "output": "CMakeFiles/test_tokenizer.dir/test_tokenizer.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_unicode_filenames.dir/test_unicode_filenames.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_unicode_filenames.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_unicode_filenames.cc",
+  "output": "CMakeFiles/test_unicode_filenames.dir/test_unicode_filenames.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang++-16 -g -o CMakeFiles/test_xref.dir/test_xref.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_xref.cc",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/test_xref.cc",
+  "output": "CMakeFiles/test_xref.dir/test_xref.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang-16 -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf -g -o CMakeFiles/qpdf-ctest.dir/qpdf-ctest.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/qpdf-ctest.c",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/qpdf-ctest.c",
+  "output": "CMakeFiles/qpdf-ctest.dir/qpdf-ctest.o"
+},
+{
+  "directory": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+  "command": "/usr/bin/clang-16 -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf -g -o CMakeFiles/qpdfjob-ctest.dir/qpdfjob-ctest.o -c /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/qpdfjob-ctest.c",
+  "file": "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/qpdfjob-ctest.c",
+  "output": "CMakeFiles/qpdfjob-ctest.dir/qpdfjob-ctest.o"
+}
+]

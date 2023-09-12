@@ -1,0 +1,210 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-10b5a9f12cc3c93ae767.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fix-qdf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fix-qdf-Debug-2fd1b285bf55025ddc48.json",
+					"name" : "fix-qdf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pdf_from_scratch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pdf_from_scratch-Debug-b1d81d72d4ddcf22779c.json",
+					"name" : "pdf_from_scratch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qpdf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qpdf-Debug-222297d2bba933249e6a.json",
+					"name" : "qpdf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qpdf-ctest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qpdf-ctest-Debug-a4a648939d3ba11aae72.json",
+					"name" : "qpdf-ctest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qpdfjob-ctest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qpdfjob-ctest-Debug-d2d0097082468eef9005.json",
+					"name" : "qpdfjob-ctest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sizes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sizes-Debug-012b37cd31076fca66fa.json",
+					"name" : "sizes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_char_sign::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_char_sign-Debug-75c179127f2d15f41cf5.json",
+					"name" : "test_char_sign",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_driver-Debug-c7dc85a0d7a4ae178e8c.json",
+					"name" : "test_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_large_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_large_file-Debug-f67805f61449cc7abcfb.json",
+					"name" : "test_large_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_many_nulls::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_many_nulls-Debug-d349455ff9ef9511f20c.json",
+					"name" : "test_many_nulls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_parsedoffset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_parsedoffset-Debug-a3befc1cbda2bf625e3c.json",
+					"name" : "test_parsedoffset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_pdf_doc_encoding::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_pdf_doc_encoding-Debug-259f2d1387262ff3f04d.json",
+					"name" : "test_pdf_doc_encoding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_pdf_unicode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_pdf_unicode-Debug-f9c7547ef004b230c272.json",
+					"name" : "test_pdf_unicode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_renumber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_renumber-Debug-5fbd966c23f6a846386e.json",
+					"name" : "test_renumber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_shell_glob::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_shell_glob-Debug-963767921797f14e1d2c.json",
+					"name" : "test_shell_glob",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_tokenizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_tokenizer-Debug-40f6df54e0a53a527f2b.json",
+					"name" : "test_tokenizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_unicode_filenames::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_unicode_filenames-Debug-2deb53236f0308310695.json",
+					"name" : "test_unicode_filenames",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_xref::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_xref-Debug-3ded8cd754906e792b19.json",
+					"name" : "test_xref",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/antoine/Projects/Rust/crates.io/qpdf-rs/build",
+		"source" : "/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
