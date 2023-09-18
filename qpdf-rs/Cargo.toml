@@ -1,6 +1,6 @@
 [package]
 name = "qpdf"
-version = "0.1.6"
+version = "11.6.1"
 authors = ["Dmitry Pankratov <dmitry@pankratov.net>"]
 description = "Rust bindings to QPDF C++ library"
 license = "MIT/Apache-2.0"
@@ -11,5 +11,5 @@ keywords = ["PDF", "QPDF"]
 edition = "2021"
 
 [dependencies]
-qpdf-sys = { path = "../qpdf-sys", version = "0.1" }
+qpdf-sys = { path = "../qpdf-sys", version = "11.6" }
 libc = "0.2"

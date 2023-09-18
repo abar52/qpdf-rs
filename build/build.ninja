@@ -54,6 +54,8 @@ build CMakeFiles/qpdf.dir/qpdf.o: CXX_COMPILER__qpdf_unscanned_Debug /home/antoi
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/qpdf.dir
   OBJECT_FILE_DIR = CMakeFiles/qpdf.dir
+  TARGET_COMPILE_PDB = CMakeFiles/qpdf.dir/
+  TARGET_PDB = qpdf.pdb
 
 
 # =============================================================================
@@ -70,8 +72,9 @@ build qpdf: CXX_EXECUTABLE_LINKER__qpdf_Debug CMakeFiles/qpdf.dir/qpdf.o
   OBJECT_DIR = CMakeFiles/qpdf.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/qpdf.dir/
   TARGET_FILE = qpdf
-  TARGET_PDB = qpdf.dbg
+  TARGET_PDB = qpdf.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target fix-qdf
@@ -87,6 +90,8 @@ build CMakeFiles/fix-qdf.dir/fix-qdf.o: CXX_COMPILER__fix-qdf_unscanned_Debug /h
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/fix-qdf.dir
   OBJECT_FILE_DIR = CMakeFiles/fix-qdf.dir
+  TARGET_COMPILE_PDB = CMakeFiles/fix-qdf.dir/
+  TARGET_PDB = fix-qdf.pdb
 
 
 # =============================================================================
@@ -103,8 +108,9 @@ build fix-qdf: CXX_EXECUTABLE_LINKER__fix-qdf_Debug CMakeFiles/fix-qdf.dir/fix-q
   OBJECT_DIR = CMakeFiles/fix-qdf.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/fix-qdf.dir/
   TARGET_FILE = fix-qdf
-  TARGET_PDB = fix-qdf.dbg
+  TARGET_PDB = fix-qdf.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target pdf_from_scratch
@@ -120,6 +126,8 @@ build CMakeFiles/pdf_from_scratch.dir/pdf_from_scratch.o: CXX_COMPILER__pdf_from
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/pdf_from_scratch.dir
   OBJECT_FILE_DIR = CMakeFiles/pdf_from_scratch.dir
+  TARGET_COMPILE_PDB = CMakeFiles/pdf_from_scratch.dir/
+  TARGET_PDB = pdf_from_scratch.pdb
 
 
 # =============================================================================
@@ -136,8 +144,9 @@ build pdf_from_scratch: CXX_EXECUTABLE_LINKER__pdf_from_scratch_Debug CMakeFiles
   OBJECT_DIR = CMakeFiles/pdf_from_scratch.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/pdf_from_scratch.dir/
   TARGET_FILE = pdf_from_scratch
-  TARGET_PDB = pdf_from_scratch.dbg
+  TARGET_PDB = pdf_from_scratch.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target sizes
@@ -153,6 +162,8 @@ build CMakeFiles/sizes.dir/sizes.o: CXX_COMPILER__sizes_unscanned_Debug /home/an
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/sizes.dir
   OBJECT_FILE_DIR = CMakeFiles/sizes.dir
+  TARGET_COMPILE_PDB = CMakeFiles/sizes.dir/
+  TARGET_PDB = sizes.pdb
 
 
 # =============================================================================
@@ -169,8 +180,9 @@ build sizes: CXX_EXECUTABLE_LINKER__sizes_Debug CMakeFiles/sizes.dir/sizes.o
   OBJECT_DIR = CMakeFiles/sizes.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/sizes.dir/
   TARGET_FILE = sizes
-  TARGET_PDB = sizes.dbg
+  TARGET_PDB = sizes.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_char_sign
@@ -186,6 +198,8 @@ build CMakeFiles/test_char_sign.dir/test_char_sign.o: CXX_COMPILER__test_char_si
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_char_sign.dir
   OBJECT_FILE_DIR = CMakeFiles/test_char_sign.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_char_sign.dir/
+  TARGET_PDB = test_char_sign.pdb
 
 
 # =============================================================================
@@ -202,8 +216,9 @@ build test_char_sign: CXX_EXECUTABLE_LINKER__test_char_sign_Debug CMakeFiles/tes
   OBJECT_DIR = CMakeFiles/test_char_sign.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_char_sign.dir/
   TARGET_FILE = test_char_sign
-  TARGET_PDB = test_char_sign.dbg
+  TARGET_PDB = test_char_sign.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_driver
@@ -220,6 +235,8 @@ build CMakeFiles/test_driver.dir/test_driver.o: CXX_COMPILER__test_driver_unscan
   INCLUDES = -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf
   OBJECT_DIR = CMakeFiles/test_driver.dir
   OBJECT_FILE_DIR = CMakeFiles/test_driver.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_driver.dir/
+  TARGET_PDB = test_driver.pdb
 
 
 # =============================================================================
@@ -236,8 +253,9 @@ build test_driver: CXX_EXECUTABLE_LINKER__test_driver_Debug CMakeFiles/test_driv
   OBJECT_DIR = CMakeFiles/test_driver.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_driver.dir/
   TARGET_FILE = test_driver
-  TARGET_PDB = test_driver.dbg
+  TARGET_PDB = test_driver.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_large_file
@@ -254,6 +272,8 @@ build CMakeFiles/test_large_file.dir/test_large_file.o: CXX_COMPILER__test_large
   INCLUDES = -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf
   OBJECT_DIR = CMakeFiles/test_large_file.dir
   OBJECT_FILE_DIR = CMakeFiles/test_large_file.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_large_file.dir/
+  TARGET_PDB = test_large_file.pdb
 
 
 # =============================================================================
@@ -270,8 +290,9 @@ build test_large_file: CXX_EXECUTABLE_LINKER__test_large_file_Debug CMakeFiles/t
   OBJECT_DIR = CMakeFiles/test_large_file.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_large_file.dir/
   TARGET_FILE = test_large_file
-  TARGET_PDB = test_large_file.dbg
+  TARGET_PDB = test_large_file.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_many_nulls
@@ -287,6 +308,8 @@ build CMakeFiles/test_many_nulls.dir/test_many_nulls.o: CXX_COMPILER__test_many_
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_many_nulls.dir
   OBJECT_FILE_DIR = CMakeFiles/test_many_nulls.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_many_nulls.dir/
+  TARGET_PDB = test_many_nulls.pdb
 
 
 # =============================================================================
@@ -303,8 +326,9 @@ build test_many_nulls: CXX_EXECUTABLE_LINKER__test_many_nulls_Debug CMakeFiles/t
   OBJECT_DIR = CMakeFiles/test_many_nulls.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_many_nulls.dir/
   TARGET_FILE = test_many_nulls
-  TARGET_PDB = test_many_nulls.dbg
+  TARGET_PDB = test_many_nulls.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_parsedoffset
@@ -320,6 +344,8 @@ build CMakeFiles/test_parsedoffset.dir/test_parsedoffset.o: CXX_COMPILER__test_p
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_parsedoffset.dir
   OBJECT_FILE_DIR = CMakeFiles/test_parsedoffset.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_parsedoffset.dir/
+  TARGET_PDB = test_parsedoffset.pdb
 
 
 # =============================================================================
@@ -336,8 +362,9 @@ build test_parsedoffset: CXX_EXECUTABLE_LINKER__test_parsedoffset_Debug CMakeFil
   OBJECT_DIR = CMakeFiles/test_parsedoffset.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_parsedoffset.dir/
   TARGET_FILE = test_parsedoffset
-  TARGET_PDB = test_parsedoffset.dbg
+  TARGET_PDB = test_parsedoffset.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_pdf_doc_encoding
@@ -353,6 +380,8 @@ build CMakeFiles/test_pdf_doc_encoding.dir/test_pdf_doc_encoding.o: CXX_COMPILER
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_pdf_doc_encoding.dir
   OBJECT_FILE_DIR = CMakeFiles/test_pdf_doc_encoding.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_pdf_doc_encoding.dir/
+  TARGET_PDB = test_pdf_doc_encoding.pdb
 
 
 # =============================================================================
@@ -369,8 +398,9 @@ build test_pdf_doc_encoding: CXX_EXECUTABLE_LINKER__test_pdf_doc_encoding_Debug 
   OBJECT_DIR = CMakeFiles/test_pdf_doc_encoding.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_pdf_doc_encoding.dir/
   TARGET_FILE = test_pdf_doc_encoding
-  TARGET_PDB = test_pdf_doc_encoding.dbg
+  TARGET_PDB = test_pdf_doc_encoding.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_pdf_unicode
@@ -386,6 +416,8 @@ build CMakeFiles/test_pdf_unicode.dir/test_pdf_unicode.o: CXX_COMPILER__test_pdf
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_pdf_unicode.dir
   OBJECT_FILE_DIR = CMakeFiles/test_pdf_unicode.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_pdf_unicode.dir/
+  TARGET_PDB = test_pdf_unicode.pdb
 
 
 # =============================================================================
@@ -402,8 +434,9 @@ build test_pdf_unicode: CXX_EXECUTABLE_LINKER__test_pdf_unicode_Debug CMakeFiles
   OBJECT_DIR = CMakeFiles/test_pdf_unicode.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_pdf_unicode.dir/
   TARGET_FILE = test_pdf_unicode
-  TARGET_PDB = test_pdf_unicode.dbg
+  TARGET_PDB = test_pdf_unicode.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_renumber
@@ -419,6 +452,8 @@ build CMakeFiles/test_renumber.dir/test_renumber.o: CXX_COMPILER__test_renumber_
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_renumber.dir
   OBJECT_FILE_DIR = CMakeFiles/test_renumber.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_renumber.dir/
+  TARGET_PDB = test_renumber.pdb
 
 
 # =============================================================================
@@ -435,8 +470,9 @@ build test_renumber: CXX_EXECUTABLE_LINKER__test_renumber_Debug CMakeFiles/test_
   OBJECT_DIR = CMakeFiles/test_renumber.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_renumber.dir/
   TARGET_FILE = test_renumber
-  TARGET_PDB = test_renumber.dbg
+  TARGET_PDB = test_renumber.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_shell_glob
@@ -452,6 +488,8 @@ build CMakeFiles/test_shell_glob.dir/test_shell_glob.o: CXX_COMPILER__test_shell
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_shell_glob.dir
   OBJECT_FILE_DIR = CMakeFiles/test_shell_glob.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_shell_glob.dir/
+  TARGET_PDB = test_shell_glob.pdb
 
 
 # =============================================================================
@@ -468,8 +506,9 @@ build test_shell_glob: CXX_EXECUTABLE_LINKER__test_shell_glob_Debug CMakeFiles/t
   OBJECT_DIR = CMakeFiles/test_shell_glob.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_shell_glob.dir/
   TARGET_FILE = test_shell_glob
-  TARGET_PDB = test_shell_glob.dbg
+  TARGET_PDB = test_shell_glob.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_tokenizer
@@ -485,6 +524,8 @@ build CMakeFiles/test_tokenizer.dir/test_tokenizer.o: CXX_COMPILER__test_tokeniz
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_tokenizer.dir
   OBJECT_FILE_DIR = CMakeFiles/test_tokenizer.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_tokenizer.dir/
+  TARGET_PDB = test_tokenizer.pdb
 
 
 # =============================================================================
@@ -501,8 +542,9 @@ build test_tokenizer: CXX_EXECUTABLE_LINKER__test_tokenizer_Debug CMakeFiles/tes
   OBJECT_DIR = CMakeFiles/test_tokenizer.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_tokenizer.dir/
   TARGET_FILE = test_tokenizer
-  TARGET_PDB = test_tokenizer.dbg
+  TARGET_PDB = test_tokenizer.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_unicode_filenames
@@ -518,6 +560,8 @@ build CMakeFiles/test_unicode_filenames.dir/test_unicode_filenames.o: CXX_COMPIL
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_unicode_filenames.dir
   OBJECT_FILE_DIR = CMakeFiles/test_unicode_filenames.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_unicode_filenames.dir/
+  TARGET_PDB = test_unicode_filenames.pdb
 
 
 # =============================================================================
@@ -534,8 +578,9 @@ build test_unicode_filenames: CXX_EXECUTABLE_LINKER__test_unicode_filenames_Debu
   OBJECT_DIR = CMakeFiles/test_unicode_filenames.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_unicode_filenames.dir/
   TARGET_FILE = test_unicode_filenames
-  TARGET_PDB = test_unicode_filenames.dbg
+  TARGET_PDB = test_unicode_filenames.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target test_xref
@@ -551,6 +596,8 @@ build CMakeFiles/test_xref.dir/test_xref.o: CXX_COMPILER__test_xref_unscanned_De
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/test_xref.dir
   OBJECT_FILE_DIR = CMakeFiles/test_xref.dir
+  TARGET_COMPILE_PDB = CMakeFiles/test_xref.dir/
+  TARGET_PDB = test_xref.pdb
 
 
 # =============================================================================
@@ -567,8 +614,9 @@ build test_xref: CXX_EXECUTABLE_LINKER__test_xref_Debug CMakeFiles/test_xref.dir
   OBJECT_DIR = CMakeFiles/test_xref.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/test_xref.dir/
   TARGET_FILE = test_xref
-  TARGET_PDB = test_xref.dbg
+  TARGET_PDB = test_xref.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target qpdf-ctest
@@ -585,6 +633,8 @@ build CMakeFiles/qpdf-ctest.dir/qpdf-ctest.o: C_COMPILER__qpdf-ctest_unscanned_D
   INCLUDES = -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf
   OBJECT_DIR = CMakeFiles/qpdf-ctest.dir
   OBJECT_FILE_DIR = CMakeFiles/qpdf-ctest.dir
+  TARGET_COMPILE_PDB = CMakeFiles/qpdf-ctest.dir/
+  TARGET_PDB = qpdf-ctest.pdb
 
 
 # =============================================================================
@@ -601,8 +651,9 @@ build qpdf-ctest: CXX_EXECUTABLE_LINKER__qpdf-ctest_Debug CMakeFiles/qpdf-ctest.
   OBJECT_DIR = CMakeFiles/qpdf-ctest.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/qpdf-ctest.dir/
   TARGET_FILE = qpdf-ctest
-  TARGET_PDB = qpdf-ctest.dbg
+  TARGET_PDB = qpdf-ctest.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target qpdfjob-ctest
@@ -619,6 +670,8 @@ build CMakeFiles/qpdfjob-ctest.dir/qpdfjob-ctest.o: C_COMPILER__qpdfjob-ctest_un
   INCLUDES = -I/home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/libqpdf
   OBJECT_DIR = CMakeFiles/qpdfjob-ctest.dir
   OBJECT_FILE_DIR = CMakeFiles/qpdfjob-ctest.dir
+  TARGET_COMPILE_PDB = CMakeFiles/qpdfjob-ctest.dir/
+  TARGET_PDB = qpdfjob-ctest.pdb
 
 
 # =============================================================================
@@ -635,8 +688,9 @@ build qpdfjob-ctest: CXX_EXECUTABLE_LINKER__qpdfjob-ctest_Debug CMakeFiles/qpdfj
   OBJECT_DIR = CMakeFiles/qpdfjob-ctest.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/qpdfjob-ctest.dir/
   TARGET_FILE = qpdfjob-ctest
-  TARGET_PDB = qpdfjob-ctest.dbg
+  TARGET_PDB = qpdfjob-ctest.pdb
 
 
 #############################################
@@ -729,14 +783,14 @@ build all: phony qpdf fix-qdf pdf_from_scratch sizes test_char_sign test_driver 
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/CMakeLists.txt /usr/share/cmake-3.27/Modules/CMakeCInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-C.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake-3.27/Modules/Platform/Linux.cmake /usr/share/cmake-3.27/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.27.4/CMakeCCompiler.cmake CMakeFiles/3.27.4/CMakeCXXCompiler.cmake CMakeFiles/3.27.4/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/CMakeLists.txt /usr/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in /usr/share/cmake-3.27/Modules/CMakeCCompilerABI.c /usr/share/cmake-3.27/Modules/CMakeCInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in /usr/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp /usr/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake /usr/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake /usr/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake /usr/share/cmake-3.27/Modules/CMakeSystem.cmake.in /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-C.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-FindBinUtils.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang.cmake /usr/share/cmake-3.27/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU.cmake /usr/share/cmake-3.27/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/LCC-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Determine-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake-3.27/Modules/Platform/Linux.cmake /usr/share/cmake-3.27/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.27.5/CMakeCCompiler.cmake CMakeFiles/3.27.5/CMakeCXXCompiler.cmake CMakeFiles/3.27.5/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/CMakeLists.txt /usr/share/cmake-3.27/Modules/CMakeCInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-C.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake-3.27/Modules/Platform/Linux.cmake /usr/share/cmake-3.27/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.27.4/CMakeCCompiler.cmake CMakeFiles/3.27.4/CMakeCXXCompiler.cmake CMakeFiles/3.27.4/CMakeSystem.cmake: phony
+build /home/antoine/Projects/Rust/crates.io/qpdf-rs/qpdf-sys/qpdf/qpdf/CMakeLists.txt /usr/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in /usr/share/cmake-3.27/Modules/CMakeCCompilerABI.c /usr/share/cmake-3.27/Modules/CMakeCInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in /usr/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp /usr/share/cmake-3.27/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake /usr/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake /usr/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake /usr/share/cmake-3.27/Modules/CMakeSystem.cmake.in /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake /usr/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-C.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang-FindBinUtils.cmake /usr/share/cmake-3.27/Modules/Compiler/Clang.cmake /usr/share/cmake-3.27/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/GNU.cmake /usr/share/cmake-3.27/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/LCC-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /usr/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Clang-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Determine-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake-3.27/Modules/Platform/Linux.cmake /usr/share/cmake-3.27/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.27.5/CMakeCCompiler.cmake CMakeFiles/3.27.5/CMakeCXXCompiler.cmake CMakeFiles/3.27.5/CMakeSystem.cmake: phony
 
 
 #############################################
